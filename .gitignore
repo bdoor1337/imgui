@@ -1,3 +1,13 @@
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+
+
+
 ## OSX artifacts
 .DS_Store
 
